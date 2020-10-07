@@ -83,11 +83,12 @@
   margin-bottom: 2rem;
 }
 
-.recipes_display_container .recipe_tabloid ol {
+.recipes_display_container .recipe_tabloid ul {
+  list-style-type: none;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.recipes_display_container .recipe_tabloid ol li {
+.recipes_display_container .recipe_tabloid ul li {
   line-height: 25px;
 }
 

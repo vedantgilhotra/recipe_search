@@ -51,6 +51,7 @@ function App() {
           label={recipe.recipe.label}
           ingredients = {recipe.recipe.ingredients}
           image = {recipe.recipe.image}
+          url ={recipe.recipe.url}
           />
         ))}
       </div>
